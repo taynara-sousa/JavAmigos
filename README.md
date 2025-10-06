@@ -13,4 +13,4 @@ Os JavAmigos, uma pequena e talentosa equipe de desenvolvedores, celebravam o su
 
 Agora, diante de uma tragédia de proporções globais e assombrados pela culpa de terem criado a ferramenta da própria destruição, os JavAmigos se tornam os únicos que possuem o conhecimento íntimo do sistema para reverter a catástrofe. Enquanto o mundo real entra em pânico e as autoridades tentam desconectar o servidor — o que poderia matar todos os jogadores restantes presos no interior — a equipe é forçada a agir. Eles precisarão se reinfundir no coração do código corrompido do próprio jogo, uma paisagem digital agora irreconhecível e perigosa, para rastrear a origem da falha e criar um antídoto digital, lutando contra o relógio e contra o próprio sistema que construíram com as próprias mãos.
 
-Trello: https://trello.com/b/cNUPxYbr/hq-javamigos-sprint-1
+Trello: https://trello.com/w/javamigos
