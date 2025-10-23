@@ -1,7 +1,7 @@
 # Cena 7: Confronto Final e Antídoto
 
 ## Status
-* **Página Final:** Página 9 (Pág. 09)
+* **Página Final:** Página 7 (Pág. 07)
 * **Responsável:** Leo 'The Bug Hunter' Compiler (Dev Back-end)
 
 ## Local
