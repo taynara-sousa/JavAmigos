@@ -1,7 +1,7 @@
 # Cena 3: Exploit e Catástrofe
 
 ## Status
-* **Página Final:** Página 4 (Pág. 04)
+* **Página Final:** Página 3 (Pág. 03)
 * **Responsável:** Alex 'Architect' Syntax (PO/Arquiteto)
 
 ## Local
