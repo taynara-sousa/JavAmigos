@@ -1,7 +1,7 @@
 # Cena 6: Jornada pelo Código Corrompido
 
 ## Status
-* **Página Final:** Página 8 (Pág. 08)
+* **Página Final:** Página 6 (Pág. 06)
 * **Responsável:** Chloe 'Pixel' Frame (Dev Front-end / QA)
 
 ## Local
