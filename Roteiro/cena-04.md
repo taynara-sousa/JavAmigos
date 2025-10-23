@@ -1,7 +1,7 @@
 # Cena 4: Reação Global
 
 ## Status
-* **Página Final:** Páginas 5-6 (Pág. 05 - Pág. 06)
+* **Página Final:** Páginas 4 (Pág. 04)
 * **Responsável:** Maya 'Master' Flow (SM/DevOps)
 
 ## Local
