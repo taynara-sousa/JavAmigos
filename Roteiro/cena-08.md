@@ -1,7 +1,7 @@
 # Cena 8: Conclusão
 
 ## Status
-* **Página Final:** Página 10 (Pág. 10)
+* **Página Final:** Página 8 (Pág. 08)
 * **Responsável:** Alex 'Architect' Syntax (PO/Arquiteto)
 
 ## Local
