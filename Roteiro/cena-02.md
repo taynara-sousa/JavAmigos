@@ -1,7 +1,7 @@
 # Cena 2: Primeira Raid
 
 ## Status
-* **Página Final:** Páginas 2-3 (Pág. 02 - Pág. 03)
+* **Página Final:** Páginas 2 (Pág. 02)
 * **Responsável:** Leo 'The Bug Hunter' Compiler (Dev Back-end)
 
 ## Local
