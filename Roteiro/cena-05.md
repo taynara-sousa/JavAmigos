@@ -1,7 +1,7 @@
 # Cena 5: Decisão da Equipe
 
 ## Status
-* **Página Final:** Página 7 (Pág. 07)
+* **Página Final:** Página 5 (Pág. 05)
 * **Responsável:** Leo 'The Bug Hunter' Compiler (Dev Back-end)
 
 ## Local
