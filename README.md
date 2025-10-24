@@ -5,7 +5,7 @@ Nome do Grupo: JavAmigos
 
 Tema: Ficção Científica Cibernética
 
-Integrantes: Giovanna Braga Ribeiro, Maria Jaine Silva Siqueira, Matheus G. L. P. C. T. M. Cordeiro, Vitor Luís Silva Brandão de Oliveira, Ruy Machado, Taynara de Oliveira Sousa
+Integrantes: Ruy Machado e Taynara de Oliveira Sousa
 
 Descrição da História:
 
